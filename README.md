@@ -1,4 +1,4 @@
-# resumo-do-lab
+# 1°resumo-do-lab-Microsoft-Azure-AZ-900
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do primeiro lab na DIO
 
 Durante o primeiro lab da DIO, no curso Microsoft Azure AZ-900, foi possível conhecer melhor a interface do Azure, entender algumas de suas funcionalidades como o Bastions, que é uma rede segura para fazer o acesso as máquinas, e localizar os serviços por categoria.
